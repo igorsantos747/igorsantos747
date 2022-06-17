@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igorsantos747
-- 👀 I’m interested in devsecops
+- 👀 I’m interested in DevSecOps
 - 🌱 I’m currently learning Javascript, Python and C.
 
 <!---
